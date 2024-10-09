@@ -1,0 +1,12 @@
+.info{
+    border: 2px solid rgb(34, 34, 34);
+    box-shadow: 2em;
+    padding:1.6em;
+}
+img{
+    border-radius: 20em;
+    -webkit-border-radius: 20em;
+    -moz-border-radius: 20em;
+    -ms-border-radius: 20em;
+    -o-border-radius: 20em;
+}

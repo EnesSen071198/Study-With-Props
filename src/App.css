@@ -1,0 +1,8 @@
+.App {
+  border: 2px solid rgb(66, 64, 64);
+  padding: 0 35% ;
+}
+
+.Card img{
+  width: 2px;
+}
